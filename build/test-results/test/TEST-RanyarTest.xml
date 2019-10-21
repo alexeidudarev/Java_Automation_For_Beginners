@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RanyarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-21T17:33:47" hostname="MBPs-MBP" time="26.622">
+  <properties/>
+  <testcase name="findTicket" classname="RanyarTest" time="26.622"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 1720
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1571679227.133][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+[1571679227.194][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+Oct 21, 2019 8:33:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
